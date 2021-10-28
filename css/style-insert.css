@@ -1,0 +1,38 @@
+
+.container{
+    background-color: cornflowerblue;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title-ppal{
+    text-align: center;
+}
+.form-group{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.input__text{
+    margin-bottom: 5px;
+    font-size: 1rem;
+    padding: 5px 10px;
+}
+.btn__group{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div__text{
+    width: 100%;
+    background-color: white;
+    font-size: 1rem;
+    padding: 5px 10px;
+
+}
